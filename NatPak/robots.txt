@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /scripts
+Disallow: /image
+Disallow: /css
+Disallow: /defaulthtml
+Disallow: /html
+
+
+
+Sitemap: http://www.natpak.net/sitemap.xml
